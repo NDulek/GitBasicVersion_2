@@ -1,0 +1,14 @@
+<mvc:View controllerName="sap.git.basic.GitBasicVersion_2.controller.SapGitBasic" xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+	xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="ExampleGitSampleTitle_2">
+					<content>
+							<Label text="test Version_2" width="100%" id="idWelcome" design="Bold" />
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
