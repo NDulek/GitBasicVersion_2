@@ -1,0 +1,1 @@
+sap.ui.define(["sap/git/basic/GitBasicVersion_2/controller/SapGitBasic.controller"],function(t){"use strict";QUnit.module("SapGitBasic Controller");QUnit.test("I should test the SapGitBasic controller",function(i){var n=new t;n.onInit();i.ok(n)})});
